@@ -12,4 +12,7 @@ It's ready, you just need to run it in your Roblox Client
 You can increase/decrease the speed of the test
 just edit the variable:
 
-`local Intervalo_De_Tempo = 0.1` --> The smaller it is, the higher the speed
+```lua
+local Intervalo_De_Tempo = 0.1
+```
+The smaller it is, the higher the speed
