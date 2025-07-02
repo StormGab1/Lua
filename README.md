@@ -1,5 +1,10 @@
-Attention!
+Warning!
 
-This should not be confused with a "DDOS", this is a stress test to check if the "Server-Side" is well protected against exploiters and also to check if there is a "Rate-Limit"
+This is not to be confused with a "DDOS". It is a stress test to check if the "server side" is well protected against exploits and also to check if there is a "rate limit".
 
-I am not responsible for how you will use this
+# (Do not test this on a game that you have not been authorized by the owner or developer.)
+
+I am not responsible for how you will use this.
+
+How to use it?
+You need to run this in your Roblox client.
