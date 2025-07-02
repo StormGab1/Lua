@@ -7,4 +7,9 @@
 I am not responsible for how you will use this.
 
 How to use it?
-You need to run this in your Roblox client.
+It's ready, you just need to run it in your Roblox Client
+
+You can increase/decrease the speed of the test
+just edit the variable:
+
+`lua local Intervalo_De_Tempo = 0.1` --> The smaller it is, the higher the speed
